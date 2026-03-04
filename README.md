@@ -1,4 +1,4 @@
 # demo-git
 This is my first Git Repository
 <br>
-Author - Aditi Deep
+Author - Aditi Deep(PES University)
